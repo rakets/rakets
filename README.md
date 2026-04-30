@@ -9,7 +9,7 @@
 * **Frameworks:** Spring Boot, Spring MVC, Hibernate, Java Persistence API (JPA), Spring Security JWT, Jakarta EE
 * **Databases:** MySQL, PostgreSQL, Redis, MongoDB
 * **Tools:** Git, Docker, Maven, Postman, Bootstrap, IntelliJ IDEA, Visual Studio Code, MySQL Workbench, MS SQL Server
-* **Testing / Documentation:** JUnit, Mockito, Swagger/OpenAPI, MS Office
+* **Testing / Documentation:** JUnit, Mockito, Swagger/OpenAPI
 * **Web Technologies:** REST API, WebSocket, HTTP, JSON
 * **Messaging / Streaming:** Apache Kafka
 
