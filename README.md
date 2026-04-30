@@ -2,8 +2,6 @@
 
 **Java Backend Developer | Software Engineer**
 
-I am a final-year Computer Science student passionate about building reliable server-side applications, designing database architectures, and creating real-time systems. 
-
 🌐 **Check out my full portfolio:** [rakets.github.io](https://rakets.github.io)
 
 ### 💻 Tech Stack
