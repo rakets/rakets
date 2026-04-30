@@ -3,9 +3,9 @@
 **Java Backend Developer | Software Engineer**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk" alt="Java" />
-  <img src="https://img.shields.io/badge/Maven-4.0.0-C71A36?style=for-the-badge&logo=apachemaven" alt="Maven" />
-  <img src="https://img.shields.io/badge/Spring_Boot-3.4.11-green?style=for-the-badge&logo=springboot" alt="Spring Boot 3" />
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk" alt="Java" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven" alt="Maven" />
+  <img src="https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
 
   <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSocket" />
