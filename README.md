@@ -8,10 +8,12 @@ I am a final-year Computer Science student passionate about building reliable se
 
 ### 💻 Tech Stack
 * **Languages:** Java 21
-* **Frameworks:** Spring Boot, Spring MVC, Spring Security, Hibernate (JPA)
+* **Frameworks:** Spring Boot, Spring MVC, Hibernate, Java Persistence API (JPA), Spring Security JWT, Jakarta EE
 * **Databases:** MySQL, PostgreSQL, Redis, MongoDB
-* **Real-time & Messaging:** WebSockets (STOMP), Apache Kafka
-* **Tools & DevOps:** Git, Docker, Maven, Swagger/OpenAPI, Postman
+* **Tools:** Git, Docker, Maven, Postman, Bootstrap, IntelliJ IDEA, Visual Studio Code, MySQL Workbench, MS SQL Server
+* **Testing / Documentation:** JUnit, Mockito, Swagger/OpenAPI, MS Office
+* **Web Technologies:** REST API, WebSocket, HTTP, JSON
+* **Messaging / Streaming:** Apache Kafka
 
 ### 🚀 Featured Projects
 * **Team Gaming Platform (Bunker):** Real-time gaming app with chat, audio, and video via WebSockets and LiveKit.
