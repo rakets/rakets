@@ -1,6 +1,6 @@
 # Valiantsin Ushkevich 👋
 
-**Junior Java Backend Developer** | Spring Boot Enthusiast
+**Java Backend Developer | Software Engineer**
 
 I am a final-year Computer Science student passionate about building reliable server-side applications, designing database architectures, and creating real-time systems. 
 
