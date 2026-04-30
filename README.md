@@ -1,6 +1,6 @@
 # Valiantsin Ushkevich 👋
 
-**Java Backend Developer | Software Engineer**
+# **Java Backend Developer | Software Engineer**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk" alt="Java" />
