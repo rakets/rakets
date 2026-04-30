@@ -6,12 +6,10 @@
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven" alt="Maven" />
-</p>  
-<p align="center">
+  
   <img src="https://img.shields.io/badge/MySQL-8-blue?style=for-the-badge&logo=mysql" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
-<p align="center">
+  
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
