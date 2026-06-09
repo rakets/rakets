@@ -17,13 +17,14 @@
 🌐 **Check out my full portfolio:** [rakets.github.io](https://rakets.github.io)
 
 ### 💻 Tech Stack
-* **Languages:** Java 21
-* **Frameworks:** Spring Boot, Spring MVC, Hibernate, Java Persistence API (JPA), Spring Security JWT, Jakarta EE
-* **Databases:** MySQL, Redis
-* **Tools:** Git, Docker, Maven, Postman, Bootstrap, IntelliJ IDEA, Visual Studio Code, MySQL Workbench, MS SQL Server
+* **Languages:** Java 21,  base (Python, C#, C++, JavaScript, TypeScript, HTML, CSS)
+* **Frameworks:** Spring Boot, Spring MVC, Hibernate, Java Persistence API (JPA), Spring Security
+* **Databases:** MySQL, NoSQL(Redis), MS SQL Server, MySQL Workbench
+* **Tools:** Git, Docker, Maven, Postman, Bootstrap, IntelliJ IDEA, Visual Studio Code
 * **Testing / Documentation:** JUnit, Mockito, Swagger/OpenAPI
 * **Web Technologies:** REST API, WebSocket, HTTP, JSON
 * **Messaging / Streaming:** Apache Kafka
+* **Systems:** Linux (Ubuntu)
 
 ### 📫 How to reach me
 * **LinkedIn:** [linkedin.com/in/valiantsinushkevich](https://www.linkedin.com/in/valiantsinushkevich/)
